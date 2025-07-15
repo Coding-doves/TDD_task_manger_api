@@ -2,8 +2,8 @@ __pycache__/
 *.py[cod]
 *.pytest_cache/
 .env
-.venv/
-venv/
+.env/
+env/
 test_tsk.db
 *.sqlite3
 *.log
